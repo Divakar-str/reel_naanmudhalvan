@@ -1,8 +1,11 @@
 # reel_naanmudhalvan
 CREATE INSTAGRAM REEL USING CANVA
+
+
 DEMO LINK : https://youtu.be/h-0R4FEydc4
 
 STEPS ARE:
+
      Navigation
      Search "Canva"
      Create Design
@@ -18,6 +21,7 @@ STEPS ARE:
      Share and Download
 
 TEAM MEMBERS:
+
     DHIWAKAR N
     BOOPATHY E
     INDRAJEETH Y
